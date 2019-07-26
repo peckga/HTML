@@ -1,6 +1,7 @@
 #cabeceraweb{margin-top: 20px}
-#navegacionprincipal{background-color:black;color: white; padding: 5px; margin-bottom: 10px}
+#navegacionprincipal{background-color:black;color: white; padding: 5px; margin-bottom: 15px}
 #barralateral{background-color: green;float: left;height: 1532px}
 #contenidoprincipal{background-color: purple; margin-left: 310px;padding-left: 15px;padding-top: 15px;padding-bottom: 15px}
 #pieprincipal{background-color: yellow;margin-top: 30px;margin-bottom: 30px}
-li{display: inline; padding: 10px}
+li{display: inline; padding: 17px}
+.nav li ul{display:none;position: absolute}
